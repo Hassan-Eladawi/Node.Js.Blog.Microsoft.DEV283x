@@ -1,0 +1,18 @@
+{
+  "name": "rest-api-ms-edx-example",
+  "version": "1.0.0",
+  "description": "assignment Microsoft couse Edx for rest-api with express.js",
+  "main": "server.js",
+  "scripts": {
+       "start": "node server.js"
+        },
+  "author": "Hassan Eladawi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "errorhandler": "1.5.1",
+    "express": "4.17.1",
+    "ip": "1.1.5",
+    "morgan": "1.9.1"
+  }
+}
